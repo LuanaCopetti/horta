@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118256771364",
+    "project_id": "horta-4c3d2",
+    "storage_bucket": "horta-4c3d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118256771364:android:84a891dbc1ebafe45253b1",
+        "android_client_info": {
+          "package_name": "com.semcodar.tutorialffyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOojoxV3CeH4mxR0jLVi9RdRDWDLcAO88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
